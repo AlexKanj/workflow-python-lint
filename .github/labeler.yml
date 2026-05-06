@@ -1,0 +1,7 @@
+tests:
+  - changed-files:
+      - any-glob-to-any-file: 'tests/**'
+
+python:
+  - changed-files:
+      - any-glob-to-any-file: '*.py'
